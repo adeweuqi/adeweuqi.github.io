@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://adeweuqi.github.io/sitemap_index.adeweuqi
